@@ -60,7 +60,7 @@ cv2.destroyAllWindows()
 
 
 
-
+# YERINI BIL
 
 
 
